@@ -357,8 +357,7 @@ eas submit --platform android
 
 ## Support
 For issues or questions:
-- Check the [GitHub Issues](https://github.com/your-repo/realm-walker/issues)
-- Join our [Discord Community](https://discord.gg/your-invite)
+- Check the [GitHub Issues](https://github.com/ShanmukhKuppili/realm-walker/issues)
 - Email: support@realmwalker.app
 
 ---

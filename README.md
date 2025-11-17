@@ -67,8 +67,7 @@ npm start
 
 Then press `i` for iOS or `a` for Android.
 
-📖 **For detailed setup instructions, see [SETUP.md](./SETUP.md)**  
-⚡ **For quick start guide, see [QUICKSTART.md](./QUICKSTART.md)**
+📖 **For detailed setup instructions, see [SETUP.md](./SETUP.md)**
 
 ## 📱 Screenshots
 
@@ -227,8 +226,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/realm-walker/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/realm-walker/discussions)
+- **Issues**: [GitHub Issues](https://github.com/ShanmukhKuppili/realm-walker/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/ShanmukhKuppili/realm-walker/discussions)
 - **Email**: support@realmwalker.app
 
 ---
