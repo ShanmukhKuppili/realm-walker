@@ -2,6 +2,8 @@
 
 # dependencies
 node_modules/
+.pnp
+.pnp.js
 
 # Expo
 .expo/
@@ -25,19 +27,75 @@ expo-env.d.ts
 npm-debug.*
 yarn-debug.*
 yarn-error.*
+.pnpm-debug.log*
+lerna-debug.log*
 
 # macOS
 .DS_Store
 *.pem
+.AppleDouble
+.LSOverride
 
 # local env files
+.env
 .env*.local
+.env.development.local
+.env.test.local
+.env.production.local
 
 # typescript
 *.tsbuildinfo
+*.tsbuildinfo.*
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+*.sublime-project
+
+# Testing
+coverage/
+*.lcov
+.nyc_output
+
+# Logs
+logs
+*.log
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# Build outputs
+build/
+out/
 
 app-example
 
 # generated native folders
 /ios
 /android
+
+# EAS
+.eas-build-local/
+
+# Lock files (optional - choose one)
+# Uncomment if you want to ignore specific lock files
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
